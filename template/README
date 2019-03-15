@@ -1,0 +1,7 @@
+You can Modify the the CSS if you want.
+
+For Introduction and Credits, use html based Code. But, You dont need to type <html>....<body> etc.
+This is due to the fact the conents will be placed directly inside the body tag, so just sue the rest of the tags like  p, br , a, table, ol/ul.
+
+Eg.
+<p> A story where MC becomes legend. </p>
