@@ -1,2 +1,3 @@
 beautifulsoup4
 newspaper3k
+ebooklib
