@@ -12,7 +12,7 @@ Check README.org for the Cover and template folder.
 
 Check if the required Binaries are met by using: python -m pip install -r requirements.txt
 
-Now, Run the Script using: python wuxiaDownloader.py. 
+Now, Run the Script using: python webnovelDownloader.py
 
 Eg. For filling the Options: https://i.postimg.cc/pLhBpbcJ/Capture.png
 
